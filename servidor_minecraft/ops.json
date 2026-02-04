@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "40d6432f-c65d-3113-9fa2-7a20d41e2ea9",
+    "name": "SoftwareLumina",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3afa5259-9195-3581-8695-94be58c3c89d",
+    "name": "Cordero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
